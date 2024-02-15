@@ -6,3 +6,8 @@ This repository is built step by step in the tutorial.
 
 It now include steps for Github.
 
+=======
+wanghaouibe.github.com
+======================
+
+Wang Hao's Homepage
